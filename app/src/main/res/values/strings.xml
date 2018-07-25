@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <!--<string name="game_board">game-board</string>-->
+    <!--<string name="player_1_score">player 1 : %d </string>-->
+    <!--<string name="player_2_score">player 2 : %d </string>-->
+    <string name="player_1_score">Player : %d </string>
+    <string name="player_2_score">Bot : %d </string>
+    <string name="btn_reset">Reset</string>
+    <string name="dialog_ok">Reset</string>
+    <string name="dialog_cancel">View</string>
+</resources>
